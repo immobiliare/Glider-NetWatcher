@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "GliderNetWatcher",
     platforms: [
-        .iOS(.v14), .macOS(.v11), .tvOS(.v14)
+        .iOS(.v13), .macOS(.v11), .tvOS(.v13)
     ],
     products: [
         .library(name: "GliderNetWatcher", targets: ["GliderNetWatcher"])

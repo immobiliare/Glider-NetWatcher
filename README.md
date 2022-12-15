@@ -22,7 +22,6 @@ It's designed to be:
 See the [project's page on GitHub for more informations](https://github.com/immobiliare/Glider).
 
 # Glider-NetWatcher
-
 - [Glider](#glider)
 - [Glider-NetWatcher](#glider-netwatcher)
   - [Introduction](#introduction)
@@ -153,6 +152,5 @@ NetWatcher.shared.setConfiguration(archive)
 ## Requirements
 
 Minimum requirements are:
-- Swift 5.1
-- iOS 11+, macOS 10.14+, tvOS 12.0+
-- Sentry SDK 7+
+- Swift 5.5
+- iOS 13+, macOS 11+, tvOS 13.0+
