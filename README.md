@@ -32,6 +32,7 @@ See the [project's page on GitHub for more informations](https://github.com/immo
     - [NetSparseFilesTransport](#netsparsefilestransport)
     - [NetArchiveTransport](#netarchivetransport)
   - [Requirements](#requirements)
+  - [Support \& Contribute](#support--contribute)
 ## Introduction
 
 `NetWatcher` package is a simple, unintrusive network activity logger perfectly integrated in Glider.
@@ -154,3 +155,12 @@ NetWatcher.shared.setConfiguration(archive)
 Minimum requirements are:
 - Swift 5.5
 - iOS 13+, macOS 11+, tvOS 13.0+
+
+## Support & Contribute
+
+Made with ❤️ by [ImmobiliareLabs](https://github.com/orgs/immobiliare) & [Contributors](https://github.com/immobiliare/Glider/graphs/contributors)
+
+We'd love for you to contribute to Glider!  
+If you have questions on using Glider, bugs, and enhancement, please feel free to reach out by opening a [GitHub Issue](https://github.com/immobiliare/Glider/issues).
+
+<a href="http://labs.immobiliare.it"><img src="./Documentation/assets/immobiliarelabs.png" alt="Indomio" width="200"/></a>
